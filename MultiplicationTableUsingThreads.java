@@ -1,4 +1,4 @@
-package POE;
+
 
 class MultiplicationTable extends Thread {
     private final int number;

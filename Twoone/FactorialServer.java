@@ -1,4 +1,4 @@
-package POE.Twoone;
+package Twoone;
 
 import java.io.*;
 import java.net.*;

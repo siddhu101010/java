@@ -1,4 +1,3 @@
-package POE;
 
 import java.io.File;
 

@@ -1,4 +1,4 @@
-package POE;
+
 
 class LifecycleDemo extends Thread {
     @Override

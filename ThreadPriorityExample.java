@@ -1,4 +1,4 @@
-package POE;
+
 
 class Task extends Thread {
     public Task(String name) {
